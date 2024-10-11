@@ -14,4 +14,7 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-*** NACK DADDYY ! ! ! ! !  ! !
+*** NACK DADDYY ! ! ! ! !  ! !   ***
+
+- step 1 
+-- update template
